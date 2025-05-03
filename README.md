@@ -29,10 +29,10 @@ This project does **not** have a backend or real login. It only shows the user i
 ### Steps
 
 # 1. Clone the project
-git clone https://github.com/your-username/edemy.git
+git clone [https://github.com/your-username/edemy](https://github.com/Enesozkan20).git
 
 # 2. Go to the project folder
-cd edemy
+cd client
 
 # 3. Install packages
 npm install
