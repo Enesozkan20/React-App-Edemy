@@ -45,11 +45,16 @@ Then open your browser and go to:
 
 # 📁 Folder Info
 src/
-├── components/    # Reusable UI parts
-├── pages/         # Different screens (Home, Courses, etc.)
-├── data/          # JSON files with course info
-├── App.jsx        # Main app layout
-└── main.jsx       # App entry file
+
+├──  components/    # Reusable UI parts
+
+├──  pages/         # Different screens (Home, Courses, etc.)
+
+├──  data/          # JSON files with course info
+
+├──  App.jsx        # Main app layout
+
+└──  main.jsx       # App entry file
 
 # 📸 Preview
 
