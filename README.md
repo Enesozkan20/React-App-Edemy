@@ -43,7 +43,7 @@ npm run dev
 Then open your browser and go to:
 👉 http://localhost:5173
 
-📁 Folder Info
+# 📁 Folder Info
 src/
 ├── components/    # Reusable UI parts
 ├── pages/         # Different screens (Home, Courses, etc.)
@@ -51,17 +51,17 @@ src/
 ├── App.jsx        # Main app layout
 └── main.jsx       # App entry file
 
-📸 Preview
+# 📸 Preview
 
 ![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/05d9061e-5b9c-4170-a123-9208a6bbcb0b)
 
-⚠️ Notes
+# ⚠️ Notes
 This project does not have a real backend.
 
 All course data is in a .json file.
 
 YouTube videos are shown with a link.
 
-📄 License
+## 📄 License
 This project uses the MIT License.
 You can use it or change it for your own work.
